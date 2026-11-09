@@ -1,0 +1,18 @@
+CharacterState	0	1	56
+    Parameters	0	1	56
+        Object Type	28	1	5
+        Mode	1	6	8
+        Character State	0	9	11
+        Character ID	6	12	24
+        Reserved	0	25	56
+CharacterAppearance	0	1	56
+    Object Type	1	1	5
+    Character Class	1	6	8
+    Headgear	1	9	14
+    Chest Armor	0	15	20
+    Gloves	0	21	26
+    Leg Armor	0	27	32
+    Boots	1	33	38
+    Weapon	0	39	44
+    Shield	0	45	50
+    Accessory	0	51	56
